@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pontonion.github.io/sitemap.html.gz
+Sitemap: https://pontonion.github.io/app/sitemap.html.gz
+Sitemap: https://pontonion.github.io/assets/sitemap.html.gz
+Sitemap: https://pontonion.github.io/css/sitemap.html.gz
+Sitemap: https://pontonion.github.io/includes/sitemap.html.gz
+Sitemap: https://pontonion.github.io/item/sitemap.html.gz
+Sitemap: https://pontonion.github.io/src/sitemap.html.gz
